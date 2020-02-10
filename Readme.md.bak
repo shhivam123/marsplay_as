@@ -1,0 +1,6 @@
+npm i node-fetch --save
+npm install pg
+npm install pg-format
+
+
+run node index.js
